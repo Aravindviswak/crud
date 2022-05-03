@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "graphs",
+      "category": "Fruit",
+      "freshness": "Brand New",
+      "price": 12,
+      "comment": "this graphs are very famous in india",
+      "date": "2022-05-03T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "apple",
+      "category": "Vegetabiles",
+      "freshness": "Second Hand",
+      "price": 47,
+      "comment": "sdasdasdas",
+      "date": "2022-05-04T18:30:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
